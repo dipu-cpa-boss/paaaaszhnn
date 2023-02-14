@@ -15,7 +15,7 @@ userInput.question("Enter your link:~$ ", (value) => {
 
   //
   fs.writeFile("title.js", `const pageTitle = "${value}";`, function (err) {
-    console.log("Link set হয়ে গিয়েছে তার পর surge দিন.");
+    console.log("টাইটেল অ্যাড করা হয়েছে .");
     process.exit();
   });
 });
