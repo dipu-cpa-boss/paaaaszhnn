@@ -7,7 +7,7 @@ const userInput = readline.createInterface({
 });
 console.log("");
 console.log("....................................................");
-console.log("     This Tool Present by Learning Journey          ");
+console.log("     This Tool Present by Md Dipu Ahmed contact  Whatsapp 01312701392 শর্টনার বানাতে চাইলে মেসেজ করুন");
 console.log("````````````````````````````````````````````````````");
 console.log("");
 userInput.question("Enter your youtube token:~$ ", (value) => {
@@ -18,7 +18,7 @@ userInput.question("Enter your youtube token:~$ ", (value) => {
   "${value}";module.exports = ytLink;
 `,
     function (err) {
-      console.log("Link set seccussful.");
+      console.log("টোকেন সেট হয়ে গেছে.");
 
       process.exit();
     }
