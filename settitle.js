@@ -7,7 +7,7 @@ const userInput = readline.createInterface({
 });
 console.log("");
 console.log("....................................................");
-console.log("       This Tool Present by Learning Journey        ");
+console.log("       This Tool Present by Md Dipu Ahmed contact  Whatsapp 01312701392 শর্টনার বানাতে চাইলে মেসেজ করুন");
 console.log("````````````````````````````````````````````````````");
 console.log("");
 userInput.question("Enter your link:~$ ", (value) => {
@@ -15,7 +15,7 @@ userInput.question("Enter your link:~$ ", (value) => {
 
   //
   fs.writeFile("title.js", `const pageTitle = "${value}";`, function (err) {
-    console.log("Link set seccussful.");
+    console.log("Link set হয়ে গিয়েছে তার পর surge দিন.");
     process.exit();
   });
 });
