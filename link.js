@@ -1,1 +1,0 @@
-const offerLink = "https://lovelyd.netlify.app/";
