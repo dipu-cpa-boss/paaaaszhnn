@@ -1,1 +1,1 @@
-const offerLink = "vnd.youtube://www.youtube.com/redirect?event=comments&redir_token=";
+const offerLink = "vnd.youtube://www.youtube.com/redirect?event=comments&redir_token=comments&redir_token=";
