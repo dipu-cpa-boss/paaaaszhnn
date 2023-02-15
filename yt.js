@@ -1,2 +1,2 @@
-const ytLink =
-  "testtoken";module.exports = ytLink;
+const ytLinkofferLink =
+  "testtoken";module.exports = offerLink;
