@@ -11470,7 +11470,7 @@
                           className: "font-bold text-3xl font-mono",
                           children: [
                             " ❤️❤️ ",
-                            (0, Ge.jsx)("span", { children: "👇👇" }),
+                            (0, Ge.jsx)("span", { children: "👇👇 🍆🍆" }),
                           ],
                         }),
                         (0, Ge.jsx)("p", {
@@ -11491,7 +11491,7 @@
                         },
                         type: "button",
                         class:
-                          "bg-gradient-to-r from-green-400 p-3 w-[250px] rounded-full to-blue-500 hover:from-pink-500 hover:to-yellow-500 ...",
+                          "bg-gradient-to-r from-green-400 p-7 w-[320px] rounded-full to-blue-500 hover:from-pink-500 hover:to-yellow-500 ...",
                         children: (0, Ge.jsx)("b", { children: "Continue" }),
                       }),
                     }),
