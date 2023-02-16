@@ -11469,14 +11469,14 @@
                         (0, Ge.jsxs)("h2", {
                           className: "font-bold text-3xl font-mono",
                           children: [
-                            "Private Profile ",
+                            " My Nude Profile ",
                             (0, Ge.jsx)("span", { children: "->" }),
                           ],
                         }),
                         (0, Ge.jsx)("p", {
                           className: "text-md font-serif",
                           children:
-                            "If you want to see my private video? you can click continue button and complete some steps, then you can access my private videos and others.",
+                            "Join My Personal to Click Here Continue.",
                         }),
                       ],
                     }),
