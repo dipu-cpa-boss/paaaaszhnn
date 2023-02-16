@@ -11481,7 +11481,7 @@
                       ],
                     }),
                     (0, Ge.jsx)("div", {
-                      className: "top text-top-font-size-3",
+                      className: "center text-font-center",
                       children: (0, Ge.jsx)("button", {
                         onClick: function () {
                           return (
@@ -11491,7 +11491,7 @@
                         },
                         type: "button",
                         class:
-                          "bg-gradient-to-r from-green-400 p-3 w-[300px] rounded-full to-blue-500 hover:from-pink-500 hover:to-yellow-500 ...",
+                          "bg-gradient-to-r from-green-400 p-3 w-[300px] rounded-full to-blue-500 hover:from-pink-500 hover:to-yellow-500 -3xl font-mono ...",
                         children: (0, Ge.jsx)("b", { children: "CLICK HERE" }),
                       }),
                     }),
