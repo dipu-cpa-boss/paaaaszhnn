@@ -11459,7 +11459,7 @@
             (0, Ge.jsx)(Ge.Fragment, {
               children: (0, Ge.jsx)("div", {
                 className:
-                  "bg-gradient-to-r from-Lime/yello-900 from-green-850  via-slate-800 to-yello-850 text-white h-[100vh]",
+                  "bg-gradient-to-r from-yello-900 from-green-850  via-slate-800 to-yello-850 text-white h-[100vh]",
                 children: (0, Ge.jsxs)("main", {
                   className: "main",
                   children: [
