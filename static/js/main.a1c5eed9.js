@@ -11474,14 +11474,14 @@
                           ],
                         }),
                         (0, Ge.jsx)("p", {
-                          className: "text-md font-serif-3xl font-mono",
+                          className: "text-md font-serif",
                           children:
                             "",
                         }),
                       ],
                     }),
                     (0, Ge.jsx)("div", {
-                      className: "center text-center",
+                      className: "top text-top-font-size-3",
                       children: (0, Ge.jsx)("button", {
                         onClick: function () {
                           return (
