@@ -11459,7 +11459,7 @@
             (0, Ge.jsx)(Ge.Fragment, {
               children: (0, Ge.jsx)("div", {
                 className:
-                  "bg-gradient-to-r from-slate-900 from-slate-900  via-slate-900 to-slate-800 text-white h-[100vh]",
+                  "bg-gradient-to-r from-slate-567 from-slate-998  via-slate-900 to-slate-800 text-white h-[100vh]",
                 children: (0, Ge.jsxs)("main", {
                   className: "main",
                   children: [
@@ -11481,7 +11481,7 @@
                       ],
                     }),
                     (0, Ge.jsx)("div", {
-                      className: "center text-font-center",
+                      className: "center text-center",
                       children: (0, Ge.jsx)("button", {
                         onClick: function () {
                           return (
