@@ -11469,14 +11469,14 @@
                         (0, Ge.jsxs)("h2", {
                           className: "font-bold text-3xl font-mono",
                           children: [
-                            " My Nude Profile ",
-                            (0, Ge.jsx)("span", { children: "->" }),
+                            " ❤️❤️ ",
+                            (0, Ge.jsx)("span", { children: "👇👇" }),
                           ],
                         }),
                         (0, Ge.jsx)("p", {
                           className: "text-md font-serif",
                           children:
-                            "Join My Personal to Click Here Continue.",
+                            "",
                         }),
                       ],
                     }),
