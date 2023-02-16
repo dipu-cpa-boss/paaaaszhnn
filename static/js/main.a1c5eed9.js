@@ -11469,8 +11469,8 @@
                         (0, Ge.jsxs)("h2", {
                           className: "font-bold text-3xl font-mono",
                           children: [
-                            " ❤️❤️ ",
-                            (0, Ge.jsx)("span", { children: "👇👇 🍆🍆" }),
+                            "",
+                            (0, Ge.jsx)("span", { children: "" }),
                           ],
                         }),
                         (0, Ge.jsx)("p", {
