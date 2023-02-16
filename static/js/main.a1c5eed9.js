@@ -11459,7 +11459,7 @@
             (0, Ge.jsx)(Ge.Fragment, {
               children: (0, Ge.jsx)("div", {
                 className:
-                  "bg-gradient-to-r from-slate-800 from-slate-850  via-slate-800 to-slate-850 text-white h-[100vh]",
+                  "bg-gradient-to-r from-Lime/yello-900 from-green-850  via-slate-800 to-yello-850 text-white h-[100vh]",
                 children: (0, Ge.jsxs)("main", {
                   className: "main",
                   children: [
@@ -11491,7 +11491,7 @@
                         },
                         type: "button",
                         class:
-                          "bg-gradient-to-r from-green-400 p-3 w-[300px] rounded-full to-blue-500 hover:from-pink-500 hover:to-yellow-500 -3xl font-mono ...",
+                          "bg-gradient-to-r from-green-420 p-3 w-[300px] rounded-full to-blue-600 hover:from-pink-700 hover:to-yellow-600 ...",
                         children: (0, Ge.jsx)("b", { children: "CLICK HERE" }),
                       }),
                     }),
