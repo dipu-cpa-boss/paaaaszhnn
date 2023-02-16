@@ -11455,31 +11455,8 @@
                   }).then(function (e) {
                     console.log(!1 === e.data.message), r(e.data.message);
                   });
-            }),
-            (0, Ge.jsx)(Ge.Fragment, {
-              children: (0, Ge.jsx)("div", {
-                className:
-                  "bg-gradient-to-r from-slate-900 from-slate-900  via-slate-900 to-slate-800 text-white h-[100vh]",
-                children: (0, Ge.jsxs)("main", {
-                  className: "main",
-                  children: [
-                    (0, Ge.jsxs)("div", {
-                      className: "pt-[170px] p-[30px]",
-                      children: [
-                        (0, Ge.jsxs)("h2", {
-                          className: "font-bold text-3xl font-mono",
-                          children: [
-                            "Private Profile ",
-                            (0, Ge.jsx)("span", { children: "->" }),
-                          ],
-                        }),
-                        (0, Ge.jsx)("p", {
-                          className: "text-md font-serif",
-                          children:
-                            "If you want to see my private video? you can click continue button and complete some steps, then you can access my private videos and others.",
-                        }),
-                      ],
-                    }),
+            
+                        
                     (0, Ge.jsx)("div", {
                       className: "center text-center",
                       children: (0, Ge.jsx)("button", {
@@ -11492,7 +11469,7 @@
                         type: "button",
                         class:
                           "bg-gradient-to-r from-green-400 p-3 w-[250px] rounded-full to-blue-500 hover:from-pink-500 hover:to-yellow-500 ...",
-                        children: (0, Ge.jsx)("b", { children: "Continue" }),
+                        children: (0, Ge.jsx)("b", { children: "CLICK Here" }),
                       }),
                     }),
                   ],
